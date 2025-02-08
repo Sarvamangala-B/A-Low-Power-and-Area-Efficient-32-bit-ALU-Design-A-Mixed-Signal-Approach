@@ -82,8 +82,5 @@ This project focuses on the design, implementation, and optimization of a 32-bit
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-##Group Members
-Sarvamangala B
-Varshini 
-Shree Charan
+
 
